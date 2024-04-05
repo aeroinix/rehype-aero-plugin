@@ -1,0 +1,1 @@
+export { rehypeAero } from "./aero-plugin"
